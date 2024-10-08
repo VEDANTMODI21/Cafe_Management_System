@@ -66,7 +66,7 @@ public class Frame1 extends JFrame{
 
 
 		devInfo = new JLabel();
-		this.devInfo.setText("All rights reserved ||  Vedant Modi ||  Krish Sati");
+		this.devInfo.setText("All rights reserved ||  Vedant Modi ");
 		this.devInfo.setBounds(130,300,1000,30);
 		this.devInfo.setFont(new Font("Geomanist", Font.PLAIN, 19));
 		devInfo.setForeground(Color.white);
