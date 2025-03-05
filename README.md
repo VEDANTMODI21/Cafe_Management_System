@@ -3,6 +3,6 @@
 
 ![GENERATE_BILL PICTURE](images/GEN_BILL.jpg)
 
-![GUI_PAGE PICTURE](images/GUI_PAGE.jpg)
+![HOME_PAGE PICTURE](images/HOME_PAGE.jpg)
 
 
