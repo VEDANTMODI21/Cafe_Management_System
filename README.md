@@ -7,6 +7,10 @@
 
 ![INSERT_ITEM PICTURE](images/INSERT_ITEM.png)
 
+![GUI_PAGE PICTURE](images/GUI_PAGE.jpg)
+
+
+
 
 
 
