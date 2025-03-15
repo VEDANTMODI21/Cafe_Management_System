@@ -7,6 +7,8 @@
 
 ![INSERT_ITEM PICTURE](images/INSERT_ITEM.png)
 
+![INSERT_ITEM PICTURE](images/ITEMS_PAGE.jpg)
+
 
 
 
